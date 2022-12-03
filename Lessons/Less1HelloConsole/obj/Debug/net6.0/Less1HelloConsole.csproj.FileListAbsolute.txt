@@ -1,0 +1,15 @@
+C:\Users\psiho\OneDrive\Рабочий стол\C#GIG\Lessons\Less1HelloConsole\bin\Debug\net6.0\Less1HelloConsole.exe
+C:\Users\psiho\OneDrive\Рабочий стол\C#GIG\Lessons\Less1HelloConsole\bin\Debug\net6.0\Less1HelloConsole.deps.json
+C:\Users\psiho\OneDrive\Рабочий стол\C#GIG\Lessons\Less1HelloConsole\bin\Debug\net6.0\Less1HelloConsole.runtimeconfig.json
+C:\Users\psiho\OneDrive\Рабочий стол\C#GIG\Lessons\Less1HelloConsole\bin\Debug\net6.0\Less1HelloConsole.dll
+C:\Users\psiho\OneDrive\Рабочий стол\C#GIG\Lessons\Less1HelloConsole\bin\Debug\net6.0\Less1HelloConsole.pdb
+C:\Users\psiho\OneDrive\Рабочий стол\C#GIG\Lessons\Less1HelloConsole\obj\Debug\net6.0\Less1HelloConsole.csproj.AssemblyReference.cache
+C:\Users\psiho\OneDrive\Рабочий стол\C#GIG\Lessons\Less1HelloConsole\obj\Debug\net6.0\Less1HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psiho\OneDrive\Рабочий стол\C#GIG\Lessons\Less1HelloConsole\obj\Debug\net6.0\Less1HelloConsole.AssemblyInfoInputs.cache
+C:\Users\psiho\OneDrive\Рабочий стол\C#GIG\Lessons\Less1HelloConsole\obj\Debug\net6.0\Less1HelloConsole.AssemblyInfo.cs
+C:\Users\psiho\OneDrive\Рабочий стол\C#GIG\Lessons\Less1HelloConsole\obj\Debug\net6.0\Less1HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\psiho\OneDrive\Рабочий стол\C#GIG\Lessons\Less1HelloConsole\obj\Debug\net6.0\Less1HelloConsole.dll
+C:\Users\psiho\OneDrive\Рабочий стол\C#GIG\Lessons\Less1HelloConsole\obj\Debug\net6.0\refint\Less1HelloConsole.dll
+C:\Users\psiho\OneDrive\Рабочий стол\C#GIG\Lessons\Less1HelloConsole\obj\Debug\net6.0\Less1HelloConsole.pdb
+C:\Users\psiho\OneDrive\Рабочий стол\C#GIG\Lessons\Less1HelloConsole\obj\Debug\net6.0\Less1HelloConsole.genruntimeconfig.cache
+C:\Users\psiho\OneDrive\Рабочий стол\C#GIG\Lessons\Less1HelloConsole\obj\Debug\net6.0\ref\Less1HelloConsole.dll
